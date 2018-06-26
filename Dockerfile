@@ -1,7 +1,7 @@
 FROM ubuntu:16.04
 
 LABEL version="1.0"
-LABEL maintainer="shindu666@gmail.com"
+LABEL maintainer="example@gmail.com"
 
 ENV DEBIAN_FRONTEND=noninteractive
 
